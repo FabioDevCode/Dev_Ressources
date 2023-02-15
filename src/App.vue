@@ -3,10 +3,11 @@ import { ref } from 'vue';
 const drawer = ref(null);
 const items = [
 	{ title: 'Dashboard', icon: 'mdi-view-dashboard', to: '/' },
-	{ title: 'Projets', icon: 'mdi-file-presentation-box', to: '/projets' },
-	{ title: 'Informations', icon: 'mdi-account-box', to: '/informations' },
-	{ title: 'Documents', icon: 'mdi-file-document', to: '/documents' },
-	{ title: 'Réglages', icon: 'mdi-cog', to: '/reglages' },
+	{ title: 'Catégorie 01', icon: 'mdi-format-font', to: '/' },
+	{ title: 'Catégorie 02', icon: 'mdi-panorama-variant-outline', to: '/' },
+	{ title: 'Catégorie 03', icon: 'mdi-svg', to: '/' },
+	{ title: 'Catégorie 04', icon: 'mdi-format-color-fill', to: '/' },
+	{ title: 'Catégorie 05', icon: 'mdi-message-question-outline', to: '/' },
 ];
 
 </script>
@@ -52,16 +53,7 @@ const items = [
 </template>
 
 <style scoped>
-	html {
-		overflow: hidden !important;
-		scrollbar-width: none;
-		-ms-overflow-style: none;
-	}
 
-	html::-webkit-scrollbar {
-		width: 0;
-		height: 0;
-	}
 
 
 </style>

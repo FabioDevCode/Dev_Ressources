@@ -1,7 +1,6 @@
-<script>
-export default {
-    name: 'Home'
-};
+<script setup>
+
+
 </script>
 
 <template>
@@ -10,7 +9,7 @@ export default {
 
 <style>
     h1 {
-        background-color: crimson;
+        background-color: lightblue;
         color: black;
     }
 
