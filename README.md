@@ -6,5 +6,5 @@
 
 
 
-<h1 align="center">Vue 3 + Vite + Vuetify</h1>
+<h1 align="center">Vue 3 + Vite + Vuetify 3</h1>
 
