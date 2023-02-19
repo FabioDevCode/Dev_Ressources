@@ -18,37 +18,37 @@ const router = createRouter({
 			component: Dashboard
 		},
 		{
-			path: '/CSS',
+			path: '/Dev_Ressources/CSS',
 			name: 'CSS',
 			component: Css
 		},
 		{
-			path: '/Icones',
+			path: '/Dev_Ressources/Icones',
 			name: 'Icones',
 			component: Icones
 		},
 		{
-			path: '/Images',
+			path: '/Dev_Ressources/Images',
 			name: 'Images',
 			component: Images
 		},
 		{
-			path: '/Fonts',
+			path: '/Dev_Ressources/Fonts',
 			name: 'Fonts',
 			component: Fonts
 		},
 		{
-			path: '/Outils',
+			path: '/Dev_Ressources/Outils',
 			name: 'Outils',
 			component: Outils
 		},
 		{
-			path: '/Packages',
+			path: '/Dev_Ressources/Packages',
 			name: 'Packages',
 			component: Packages
 		},
 		{
-			path: '/Autre',
+			path: '/Dev_Ressources/Autre',
 			name: 'Autre',
 			component: Autre
 		},
