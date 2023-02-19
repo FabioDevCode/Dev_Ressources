@@ -221,6 +221,12 @@ export const data = [
         namespace: "Icones",
         desc: "Ensemble d'icones disponible en SVG."
     },
+    {
+        name: "Badgen",
+        link: "https://badgen.net/",
+        namespace: "Autre",
+        desc: "Générateur de bagdes sur mesure."
+    },
     // {
     //     name: "",
     //     link: "",

@@ -3,14 +3,14 @@ import { ref } from 'vue';
 
 const drawer = ref(null);
 const items = [
-	{ title: 'Dashboard', icon: 'mdi-view-dashboard', to: '/' },
-	{ title: 'CSS', icon: 'mdi-format-color-fill', to: '/CSS' },
-	{ title: 'Icones', icon: 'mdi-svg', to: '/Icones' },
-	{ title: 'Images', icon: 'mdi-panorama-variant-outline', to: '/Images' },
-	{ title: 'Fonts', icon: 'mdi-format-font', to: '/Fonts' },
-	{ title: 'Outils', icon: 'mdi-tools', to: '/Outils' },
-	{ title: 'Packages', icon: 'mdi-npm', to: '/Packages' },
-	{ title: 'Autre', icon: 'mdi-message-question-outline', to: '/Autre' },
+	{ title: 'Dashboard', icon: 'mdi-view-dashboard', to: '/Dev_Ressources/' },
+	{ title: 'CSS', icon: 'mdi-format-color-fill', to: '/Dev_Ressources/CSS' },
+	{ title: 'Icones', icon: 'mdi-svg', to: '/Dev_Ressources/Icones' },
+	{ title: 'Images', icon: 'mdi-panorama-variant-outline', to: '/Dev_Ressources/Images' },
+	{ title: 'Fonts', icon: 'mdi-format-font', to: '/Dev_Ressources/Fonts' },
+	{ title: 'Outils', icon: 'mdi-tools', to: '/Dev_Ressources/Outils' },
+	{ title: 'Packages', icon: 'mdi-npm', to: '/Dev_Ressources/Packages' },
+	{ title: 'Autre', icon: 'mdi-message-question-outline', to: '/Dev_Ressources/Autre' },
 ];
 </script>
 
