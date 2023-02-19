@@ -43,10 +43,6 @@ function display(arg) {
 	};
 };
 
-
-
-
-
 </script>
 
 

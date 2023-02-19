@@ -62,7 +62,7 @@
 | **JSONPlaceholder** | [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/) | Fausse API permettant de faire de tests. |
 | **Mock Magic** | [https://studio.mockmagic.com/](https://studio.mockmagic.com/) | Permet de créer des mockups. |
 | **Meta Tags** | [https://metatags.io/](https://metatags.io/) | Prévisualiseur et générateur de meta-tags. |
-| **Spline** | [https://spline.design/#download](https://spline.design/#download) | Permet de créer des éléments 3D. |
+| **Spline** | [https://spline.design/](https://spline.design/#download) | Permet de créer des éléments 3D. |
 | **Can I use** | [https://caniuse.com/](https://caniuse.com/) | Check la compatibilité des navigateurs pour le HTML, CSS et Javascript. |
 | **Caninclude** | [https://caninclude.glitch.me/](https://caninclude.glitch.me/) | Permet de savoir si il est possible d'inclure un élément HTML dans un autre. |
 | **CSS Validator** | [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/) | Sert a vérifier les bonnes pratiques du CSS. |
@@ -73,10 +73,10 @@
 ### Packages
 | Nom       |      Lien      | Description |
 |:----------|:---------------|:------------|
-| **PurgeCSS** | [https://purgecss.com/getting-started.html](https://purgecss.com/getting-started.html) | Permet de supprimer le CSS non utilisé. |
+| **PurgeCSS** | [https://purgecss.com/](https://purgecss.com/getting-started.html) | Permet de supprimer le CSS non utilisé. |
 | **Splitting.js** | [https://splitting.js.org/](https://splitting.js.org/) | Split de éléments afin de données plus de possibilités pour les animations. |
 | **Cheerio** | [https://cheerio.js.org/](https://cheerio.js.org/) | Bibliothèque rapide, flexible et élégante pour analyser et manipuler HTML et XML. |
-| **Kinesis** | [https://www.aminerman.com/kinesis/#/](https://www.aminerman.com/kinesis/#/) | Ensemble de composants qui vous permettent de créer des animations interactives pour vos applications Vue.js. |
+| **Kinesis** | [https://www.aminerman.com/kinesis/](https://www.aminerman.com/kinesis/#/) | Ensemble de composants qui vous permettent de créer des animations interactives pour vos applications Vue.js. |
 
 <br>
 
@@ -84,6 +84,6 @@
 | Nom       |      Lien      | Description |
 |:----------|:---------------|:------------|
 | **Badgen** | [https://badgen.net/](https://badgen.net/) | Générateur de bagdes sur mesure. |
-| **Dev.to** | [https://dev.to/envoy_/150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk) | Ensemble de badge sous forme d'image afin de remplir votre profil Github. |
+| **Dev.to** | [https://dev.to/](https://dev.to/envoy_/150-badges-for-github-pnk) | Ensemble de badge sous forme d'image afin de remplir votre profil Github. |
 
 <br>
