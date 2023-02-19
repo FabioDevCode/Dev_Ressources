@@ -23,86 +23,70 @@ h1 {
 }
 
 
-.CSS {
-    background-color: #CE93D8;
+.CSS, .Icones, .Images, .Fonts, .Outils, .Packages, .Autre {
+    background-color: #F5F5F5;
 }
 .CSS .card:hover {
     background-color: #F3E5F5;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .CSS h2 {
     background-color: #F3E5F5;
+    background-color: #CE93D8;
     border-bottom: 3px solid #6A1B9A;
-}
-.Icones {
-    background-color: #FFF59D;
 }
 .Icones .card:hover {
     background-color: #FFFDE7;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
+
 }
 .Icones h2 {
-    background-color: #FFFDE7;
+    background-color: #FFF59D;
     border-bottom: 3px solid #FDD835;
-}
-.Images {
-    background-color: #A5D6A7;
 }
 .Images .card:hover {
     background-color: #E8F5E9;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .Images h2 {
-    background-color: #E8F5E9;
+    background-color: #A5D6A7;
     border-bottom: 3px solid #388E3C;
-}
-.Fonts {
-    background-color: #7986CB;
 }
 .Fonts .card:hover {
     background-color: #E8EAF6;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .Fonts h2 {
-    background-color: #E8EAF6;
+    background-color: #7986CB;
     border-bottom: 3px solid #283593;
-}
-.Outils {
-    background-color: #D7CCC8;
 }
 .Outils .card:hover {
     background-color: #EFEBE9;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .Outils h2 {
-    background-color: #EFEBE9;
+    background-color: #D7CCC8;
     border-bottom: 3px solid #4E342E;
-}
-.Packages {
-    background-color: #EF9A9A;
 }
 .Packages .card:hover {
     background-color: #FFEBEE;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .Packages h2 {
-    background-color: #FFEBEE;
+    background-color: #EF9A9A;
     border-bottom: 3px solid #B71C1C;
-}
-.Autre {
-    background-color: #FFE0B2;
 }
 .Autre .card:hover {
     background-color: #FFF3E0;
-    box-shadow: 0 0 8px rgba(255, 255, 255, .9);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 .Autre h2 {
-    background-color: #FFF3E0;
+    background-color: #FFE0B2;
     border-bottom: 3px solid #EF6C00;
 }
 
 /*___________RESPONSIVE___________*/
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1350px) {
     .card-container {
         justify-content: space-evenly !important;
     }
@@ -112,13 +96,13 @@ h1 {
     }
 }
 
-@media screen and (max-width: 835px) {
+@media screen and (max-width: 998px) {
     .card {
         width: 45% !important;
     }
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 678px) {
     .card {
         width: 100% !important;
     }

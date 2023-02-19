@@ -33,12 +33,13 @@ structuredData.forEach(el => {
         }
     })
 });
-
-
 </script>
+
 
 <template>
     <h1 class="ma-5">Dashboard</h1>
+
+    <v-divider></v-divider>
 
     <div class="ma-3">
         <section id="container" :class="el.namespace" :key="structuredData.indexOf(el)" v-for="el in structuredData">
@@ -47,7 +48,7 @@ structuredData.forEach(el => {
             </h2>
 
             <div class="card-container">
-                <a class="card" :href="tools.link" :key="tools.name" v-for="tools in el.data">
+                <a class="card" :href="tools.link" target="_blank" :key="tools.name" v-for="tools in el.data">
                     <h3>
                         {{ tools.name }}
                     </h3>
@@ -58,8 +59,8 @@ structuredData.forEach(el => {
             </div>
         </section>
     </div>
-
 </template>
+
 
 <style scoped>
     #container {
@@ -126,7 +127,6 @@ structuredData.forEach(el => {
         height: 0%;
         width: 100%;
         font-size: .9em;
-        font-style: italic;
         transition: all 250ms ease;
     }
 
@@ -134,8 +134,7 @@ structuredData.forEach(el => {
         height: 35%;
     }
     .card:hover p {
-        padding: 5px;
+        padding: 7px;
         height: 65%;
     }
-
 </style>

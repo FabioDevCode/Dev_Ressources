@@ -135,7 +135,7 @@ export const data = [
         name: "Neumorphism.io",
         link: "https://neumorphism.io/#e0e0e0",
         namespace: "CSS",
-        desc: "Générateur de paramètres CSS avec style neumorphisme."
+        desc: "Générateur de styles neumorphisme."
     },
     {
         name: "Mock Magic",
@@ -195,7 +195,7 @@ export const data = [
         name: "Cheerio",
         link: "https://cheerio.js.org/",
         namespace: "Packages",
-        desc: "La bibliothèque rapide, flexible et élégante pour analyser et manipuler HTML et XML."
+        desc: "Bibliothèque rapide, flexible et élégante pour analyser et manipuler HTML et XML."
     },
     {
         name: "Kinesis",
