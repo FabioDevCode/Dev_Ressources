@@ -4,10 +4,6 @@
   <img height="25px" src="https://badgen.net/badge/Build/with/353535?icon=" /> <br>
   <img height="35px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img height="35px" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
-
-  <br>
-
-  <a href="https://fabiodevcode.github.io/Dev_Ressources/" target="_blank"> Dev Ressources</a>
 </div>
 
 <hr>
