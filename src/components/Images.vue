@@ -4,7 +4,7 @@ import { data } from "../assets/data";
 const imagesData = []
 
 data.forEach(el => {
-    if(el.namespace === 'Icones') {
+    if(el.namespace === 'Images') {
         imagesData.push(el);
     }
 });
