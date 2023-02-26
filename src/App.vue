@@ -48,8 +48,8 @@ function display(arg) {
 
 <template>
 	<v-app id="inspire">
-		<v-navigation-drawer v-model="drawer" app class="bg-blue-grey-lighten-5">
-			<v-list-item class="bg-blue-grey-darken-2 text-white">
+		<v-navigation-drawer v-model="drawer" app class="bg-blue-grey-darken-3">
+			<v-list-item class="bg-blue-grey-darken-4 text-white">
 				<v-list-item-content>
 					<v-list-item-title class="text-h6 pa-4">
 						Menu
@@ -74,8 +74,8 @@ function display(arg) {
 			</v-list>
 		</v-navigation-drawer>
 
-		<v-app-bar class="bg-blue-grey-darken-3 text-white">
-			<v-app-bar-nav-icon 
+		<v-app-bar class="bg-blue-grey-darken-4 text-white">
+			<v-app-bar-nav-icon
 			@click="drawer = !drawer"
 			>
 			</v-app-bar-nav-icon>
@@ -83,7 +83,7 @@ function display(arg) {
 			<v-toolbar-title>Dev Ressources</v-toolbar-title>
 		</v-app-bar>
 
-		<v-main>
+		<v-main class="bg-blue-grey-darken-3">
 			<Dashboard v-if="show.Dashboard" />
 			<Css v-if="show.CSS" />
 			<Icones v-if="show.Icones"/>

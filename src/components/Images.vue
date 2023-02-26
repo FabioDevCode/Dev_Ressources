@@ -13,7 +13,7 @@ data.forEach(el => {
 
 
 <template>
-    <h1 class="ma-5">Images</h1>
+    <h1 class="ma-5 text-blue-grey-lighten-4">Images</h1>
 
     <v-divider></v-divider>
 

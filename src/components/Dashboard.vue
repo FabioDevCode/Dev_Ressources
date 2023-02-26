@@ -37,13 +37,13 @@ structuredData.forEach(el => {
 
 
 <template>
-    <h1 class="ma-5">Dashboard</h1>
+    <h1 class="ma-5 text-blue-grey-lighten-4">Dashboard</h1>
 
     <v-divider></v-divider>
 
-    <div class="ma-3">
-        <section id="container" :class="el.namespace" :key="structuredData.indexOf(el)" v-for="el in structuredData">
-            <h2>
+    <div class="ma-3 ">
+        <section id="container" :class="el.namespace" class="bg-blue-grey-darken-2" :key="structuredData.indexOf(el)" v-for="el in structuredData">
+            <h2 class="text-blue-grey-darken-4">
                 {{ el.namespace }}
             </h2>
 
